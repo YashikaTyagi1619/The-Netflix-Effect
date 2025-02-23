@@ -1,5 +1,3 @@
-# streamlit run app.py  24 and 45 ..... above 45
-
 import streamlit as st
 import streamlit.components.v1 as components
 import pickle
